@@ -10,7 +10,7 @@ namespace YahtzeeTeerling
     {
 
         int maxAantal = 3;
-        private int aantalTeerlingen = 5;
+        private int aantalTeerlingen = 3;
         // Onthoudt het aantal ogen van de teerling
         int _aantalOgen;
 
